@@ -13,6 +13,7 @@ To write a Python program to calculate the **sum of all digits** in a number usi
 4. Call the recursive function and store the result.
 5. Print the result.
 6. **Stop**
+   
 
 ## 💻 PROGRAM:
 ```
