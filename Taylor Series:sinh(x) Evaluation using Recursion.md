@@ -19,6 +19,7 @@ To write a Python program to evaluate the value of **sinh(x)** for **n terms** u
 6. Call the `sinh(x, n)` function and print the result
 7. **Stop**
 
+
 ---
 
 ## 💻 PROGRAM:
